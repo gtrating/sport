@@ -1,3 +1,3 @@
 # GTRatingSport
 
-[プライバシーポリシー](./privary-policy.md)
+[プライバシーポリシー](./privacy-policy.md)
