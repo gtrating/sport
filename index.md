@@ -1,4 +1,4 @@
 # GTRatingSport
 
-[FAQ](./FAQ.md)
-[プライバシーポリシー](./privacy-policy.md)
+- [FAQ](./FAQ.md)
+- [プライバシーポリシー](./privacy-policy.md)
