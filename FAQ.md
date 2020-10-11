@@ -23,7 +23,7 @@ GranTurismo Sportの非公式コンパニオンアプリです。
 
 あまり使われていないアカウントの場合、検索しても表示されないことがあります。
 GTSコミュニティのプロフィールページを教えていただければ手動で反映可能ですので、運営までご連絡ください。
-例: https://www.gran-turismo.com/jp/gtsport/user/profile/2537388/overview
+例: [https://www.gran-turismo.com/jp/gtsport/user/profile/2537388/overview](https://www.gran-turismo.com/jp/gtsport/user/profile/2537388/overview)
 
 ## Android版の対応予定 is いつ
 
